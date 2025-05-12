@@ -15,16 +15,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=redriot88&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Drafted information ^-^
+<!--Drafted information ^-^ -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ed-k-more) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ed.more299@gmail.com) 
+<!--## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ed-k-more) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ed.more299@gmail.com) -->
 
-🤔 I’m looking for help with understanding backend engineering so any resources on this would be great!😊<br/>
+<!--🤔 I’m looking for help with understanding backend engineering so any resources on this would be great!😊<br/> -->
 <!--
-**redriot88/redriot88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**redriot88/redriot88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 🔭 I’m currently working on cybersecurity labs and an AI LLM project!🛡️🔐💻<br/>
 🌱 I’m currently learning a lot about cybersecurity and learning Python and C!🐍<br/>
