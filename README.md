@@ -1,7 +1,7 @@
 ## Hi there, I'm Ed 👋
 🏫 IT Student in Sydney, Australia💻🐨🦘<br/>
 🧠 Majoring in Cybersecurity and Minoring in Information Systems🔐💿<br/>
-🌱 I’m currently learning a lot about cybersecurity and learning Python and C!🐍<br/>
+🌱 I’m currently learning a lot about cybersecurity and self-learning JS, Python and C!🐍<br/>
 🔭 I’m currently working on cybersecurity labs and an AI LLM project!🛡️🔐💻<br/>
 ⚡ Fun fact: I love exercising from playing team sports to doing more adventurous things like skydiving🪂and bouldering!🧗<br/>
 ## 🌐 Socials:
