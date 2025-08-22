@@ -1,4 +1,4 @@
-## Hi there, I'm Ed 👋
+## Hi there, I'm Ed 👋😊
 🏫 IT Student in Sydney, Australia💻🐨🦘<br/>
 🧠 Majoring in Cybersecurity and Minoring in Information Systems🔐💿<br/>
 🌱 I’m currently learning a lot about cybersecurity and self-learning JS, Python and C!🐍<br/>
